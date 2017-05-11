@@ -1,5 +1,5 @@
 # Сборка проекта с помощью GULP + SASS
-![alt tag](https://cs7055.userapi.com/c636720/v636720414/68fb6/123x2uCVepA.jpg)
+![alt tag](https://cs7055.userapi.com/c636720/v636720414/68fcf/3FKER3tGqmo.jpg)
 
 
 ## УСТАНОВКА
