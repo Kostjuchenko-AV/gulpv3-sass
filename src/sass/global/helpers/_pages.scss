@@ -1,6 +1,3 @@
-/* NAVIGATION PAGES FOR PROJECTS */
-/* ON BUILD YOU NEED DELETE THIS STYLES */
-
 .pages.open{
 	bottom:0;
 	.icon-pages{
@@ -36,6 +33,9 @@
 	@media screen and (max-width: 767px) {
 		background: transparent;
 	}
+	// @media screen and (max-width: 767px) {
+	// 	display: none !important;
+	// }
 	.icon-pages{
 		visibility:hidden;
 	}
@@ -127,5 +127,3 @@
 		}
 	}
 }
-
-/* end nav pages */
